@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\krist\source\repos\Day2Operators\Day2Operators\Source.c(15,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\krist\source\repos\Day2Operators\Day2Operators\Source.c(12,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\krist\source\repos\Day2Operators\Day2Operators\Source.c(13,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Day2Operators.vcxproj -> C:\Users\krist\source\repos\Day2Operators\Debug\Day2Operators.exe
