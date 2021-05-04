@@ -1,0 +1,8 @@
+﻿  Source.c
+D:\Projects\C\Course1\SortingArrayOfStrings\SortingArrayOfStrings\Source.c(42,33): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+D:\Projects\C\Course1\SortingArrayOfStrings\SortingArrayOfStrings\Source.c(42,30): warning C4024: 'cmp_func': different types for formal and actual parameter 1
+D:\Projects\C\Course1\SortingArrayOfStrings\SortingArrayOfStrings\Source.c(42,42): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+D:\Projects\C\Course1\SortingArrayOfStrings\SortingArrayOfStrings\Source.c(42,39): warning C4024: 'cmp_func': different types for formal and actual parameter 2
+D:\Projects\C\Course1\SortingArrayOfStrings\SortingArrayOfStrings\Source.c(33): warning C4716: 'sort_by_number_of_distinct_characters': must return a value
+D:\Projects\C\Course1\SortingArrayOfStrings\SortingArrayOfStrings\Source.c(37): warning C4716: 'sort_by_length': must return a value
+  SortingArrayOfStrings.vcxproj -> D:\Projects\C\Course1\SortingArrayOfStrings\Debug\SortingArrayOfStrings.exe

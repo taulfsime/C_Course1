@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\Projects\C\Course1\StudentsMarksSum\StudentsMarksSum\Source.c(24,30): warning C4013: 'malloc' undefined; assuming extern returning int
+D:\Projects\C\Course1\StudentsMarksSum\StudentsMarksSum\Source.c(33,9): warning C4013: 'free' undefined; assuming extern returning int
+  StudentsMarksSum.vcxproj -> D:\Projects\C\Course1\StudentsMarksSum\Debug\StudentsMarksSum.exe
